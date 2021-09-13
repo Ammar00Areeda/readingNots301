@@ -15,5 +15,5 @@ befor any class we **must** read the topics that we will take in the *next class
 | read  |      link      |
 |----------|:-------------:|
 | read01 |  https://ammar00areeda.github.io/readingNots301/read01/ |
-<!-- | read02 |      |
-| read03 |  | -->
+| read02 |  https://ammar00areeda.github.io/readingNots301/read02/    |
+<!-- | read03 |  | -->
