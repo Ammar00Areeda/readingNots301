@@ -20,3 +20,4 @@ befor any class we **must** read the topics that we will take in the *next class
 | read04 |  https://ammar00areeda.github.io/readingNots301/read04/ |
 | read05 |  https://ammar00areeda.github.io/readingNots301/read05/ |
 | read06 |  https://ammar00areeda.github.io/readingNots301/read06/ |
+| read07 |  https://ammar00areeda.github.io/readingNots301/read07/ |
