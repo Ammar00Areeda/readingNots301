@@ -1,61 +1,32 @@
-# NODE.JS
+## Who is Roy Fielding?
 
-## What is node.js?
+In addition to his job at Adobe, he is also a Senior Principal Scientist at Sun Microsystems. He drafted the HTTP/1.x and URI standards, contributed to a number of other Web technologies, and established the REST architectural style.
 
-Node.js is an open-source , cross-platform, back-end  JavaScript  runtime environment  that runs on the V8 engine  and executes JavaScript code outside a web browser 
+## Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
 
-
-## In your own words, what is Chrome’s V8 JavaScript Engine?
-
-V8 is the JavaScript execution engine which was initially built for Google Chrome.
-
-It compiles JavaScript source code to native machine code.
+Because machines lack a universal word, they are inherently ineffective. The way nouns are discussed varies from programming language to database to system to system. That's why a URL is so critical. It allows all of these systems to communicate about the nouns of one another.
 
 
-## What does it mean that node is a JavaScript runtime?
+## What is the HTTP protocol that Fielding and his friends created?
 
-The Node. js runtime is the software stack responsible for installing your web service's code and its dependencies and running your service.
-
-## What is npm?
-
-The package manager npm is pre-installed with Node, The largest software registry in the world. There are nearly one million JavaScript packages accessible for download, with billions of downloads per week.
+The web page just specifies the URLs to the images and the browser goes and does more GETs using the HTTP protocol on them until all the resources are obtained and the web page is displayed. But the important thing here is that very different kinds of nouns can be treated the same. Whether the noun is an image, text, video, an mp3, a slideshow, whatever. I can GET all of those things the same way given a URL.
 
 
-## What version of node are you running on your machine?
+## What does a GET do?
 
-v14.17.3
+the browser does an HTTP GET on the URL you typed in and back comes a web page.
 
+## What does a POST do?
 
-## What version of npm are you running on your machine?
+If one system needs to add something to another system, it would use an HTTP verb of POST.
 
-v6.14.13
+## What does PUT do?
 
-## What command would you type to install a library/package called ‘jshint’?
+If a system wants to replace something in another system, it uses an HTTP verb of PUT
 
-npm install -g jshint
+## What does PATCH do? 
 
-## What is node used for?
+to do a partial update, it'll hopefully use PATCH.
 
-installing (via npm) and running (via Node) various build tools — designed to automate the process of developing a modern JavaScript application.
-
-
--------------------------
-
-## What are the 6 reasons for pair programming?
-
-
-* Greater efficiency
-* Engaged collaboration
-* Learning from fellow students
-* Social skills
-* Job interview readiness
-* Work environment readiness
-
-
-
-## In your experience, which of these reasons have you found most beneficial?
-
-Job interview readiness
-
-
+-----------
 
