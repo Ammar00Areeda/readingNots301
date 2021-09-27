@@ -26,3 +26,4 @@ befor any class we **must** read the topics that we will take in the *next class
 | read10 |  https://ammar00areeda.github.io/readingNots301/read10/ |
 | read11 |  https://ammar00areeda.github.io/readingNots301/read11/ |
 | read12 |  https://ammar00areeda.github.io/readingNots301/read12/ |
+| read13 |  https://ammar00areeda.github.io/readingNots301/read13/ |
